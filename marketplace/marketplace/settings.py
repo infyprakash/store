@@ -116,6 +116,10 @@ TEMPLATES = [
                 'oscar.apps.communication.notifications.context_processors.notifications',
                 'oscar.core.context_processors.metadata',
             ],
+            'libraries':  {
+                'render_partner': 'myshop.templatetags.product_partner',
+                'render_partner_name': 'myshop.templatetags.product_partner',
+            }
         },
     },
 ]
