@@ -1,0 +1,3 @@
+git config core.autocrlf true
+
+stck = StockRecord.objects.filter(partner__id=1)
