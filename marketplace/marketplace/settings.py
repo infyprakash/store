@@ -140,7 +140,7 @@ WSGI_APPLICATION = 'marketplace.wsgi.application'
 DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
-            'HOST': '127.0.0.1',
+            'HOST': '/cloudsql/ecomdb-002',
             'PORT': '3306',
             'NAME': 'ecomdb',
             'USER': 'root',
