@@ -140,7 +140,7 @@ WSGI_APPLICATION = 'marketplace.wsgi.application'
 DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
-            'HOST': '/cloudsql/ecomdb-002',
+            'HOST': '/cloudsql/ascendant-volt-354609:us-central1:ecomdb-002',
             'NAME': 'ecomdb',
             'USER': 'infography',
             'PASSWORD': 'Cb1$`>0kP~yg2PMP',
