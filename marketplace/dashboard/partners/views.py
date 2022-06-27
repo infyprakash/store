@@ -66,11 +66,11 @@ class PartnerRegisterView(View):
             name = request.POST['name']
             line1 = request.POST['line1']
             country = request.POST['country']
-            print(name,line1,country)
+            # print(name,line1,country)
             partner = Partner.objects.create(name=request.POST['name'])
             user = request.user
             partner.users.add(user)
-            c = Country.objects.create(name=country)
+            c = Country.objects.get(name=country)
             p_addr = PartnerAddress.objects.create(partner=partner,line1=line1,country=c)
             if not user.is_staff:
                 dashboard_access_perm = Permission.objects.get(codename='dashboard_access',content_type__app_label='partner')
