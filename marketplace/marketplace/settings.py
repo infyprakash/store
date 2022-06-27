@@ -141,10 +141,9 @@ DATABASES = {
         'default': {
             'ENGINE': 'django.db.backends.mysql',
             'HOST': '/cloudsql/ecomdb-002',
-            'PORT': '3306',
             'NAME': 'ecomdb',
-            'USER': 'root',
-            'PASSWORD': '',
+            'USER': 'infography',
+            'PASSWORD': 'Cb1$`>0kP~yg2PMP',
         }
     }
 
