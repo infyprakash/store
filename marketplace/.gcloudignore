@@ -1,0 +1,12 @@
+# some other stuff we also likely not want to upload
+.gcloudignore
+.git
+.gitignore
+__pycache__/
+.virtualenv
+.vscode
+
+# 'assets' is my versioned directory for static files, I gather
+# then into 'static' before deployment and only 'static' should
+# be pushed to App Engine
+assets
