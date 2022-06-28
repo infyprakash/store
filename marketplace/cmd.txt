@@ -3,3 +3,37 @@ git config core.autocrlf true
 stck = StockRecord.objects.filter(partner__id=1)
 
 token = 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
+
+superuser
+
+username: infography
+password: Admin0_9_0_90ADMIN
+
+BEB6lj9rdCuJSQkGxoA6Qm2RjzMh
+
+
+echo DATABASE_URL= > .env
+echo GS_BUCKET_NAME=ascendant-volt-354609_ebucket-001 >> .env
+echo SECRET_KEY=$(cat /dev/urandom | LC_ALL=C tr -dc '[:alpha:]'| fold -w 50 | head -n1) >> .env 
+
+444725287663@cloudbuild.gserviceaccount.com
+mysql://infography:Cb1$`>0kP~yg2PMP@//cloudsql/ascendant-volt-354609:us-central1:ecomdb-002/ecomdb
+gcloud projects add-iam-policy-binding PROJECT_ID \
+  --member serviceAccount:service-PROJECT_NUMBER@gcf-admin-robot.iam.gserviceaccount.com \
+  --role roles/cloudfunctions.serviceAgent
+
+
+gcloud projects add-iam-policy-binding ascendant-volt-354609 --member serviceAccount:service-444725287663@gcf-admin-robot.iam.gserviceaccount.com --role roles/cloudfunctions.serviceAgent
+
+cloud_sql_proxy.exe -instances="ascendant-volt-354609:us-central1:ecomdb-002"=tcp:5432
+
+ascendant-volt-354609@appspot.gserviceaccount.com	
+
+
+echo DATABASE_URL=mysql://infography:Cb1$`>0kP~yg2PMP@//cloudsql/ascendant-volt-354609::us-central1:ecomdb-002/ecomdb > .env
+echo GS_BUCKET_NAME=ascendant-volt-354609:_ebucket-001 >> .env
+echo SECRET_KEY=$(cat /dev/urandom | LC_ALL=C tr -dc '[:alpha:]'| fold -w 50 | head -n1) >> .env
+
+
+
+set GOOGLE_APPLICATION_CREDENTIALS="C:\Users\vivo book\AppData\Local\Google\Cloud SDK\ascendant-volt-354609-0d1eb4d95756.json"

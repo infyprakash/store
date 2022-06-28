@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ascendant-volt-354609",
+  "private_key_id": "0d1eb4d9575674c582c761c2724f279de73234df",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQCdYsblsWKyVZ34\nsDxOK8R1L0g+s2I1fUYP9zfPj3FuoSulf/PpT/Yugti4567OmoigW/yQGb8/Wlex\nfUmY4/PI71IT4IE0aJgaKyRpZC8itM4h32mu9tXYJkaqJZFV+UA/eMwCYgzBkhZ1\nYQuTAUnXsmMloLhggspgeK9m4qrmqu5y9hs+czoRpJGLpODEprdsTQwU5fO9JCEi\nj1q/9QwNq1xtSQIkJ0Vqo4ufEReaR4C1h6r9lixau/rhin2yyaQZ3zaaOMHAmVhu\nlPwyMhAjuiC0X5RQljrYfdym1JOupdRcuiuekPjl2H7UIJbFgygOdPQLC2Zb0TZo\ngF2OsV5DAgMBAAECggEABbqFd3+C2Zo6olOuFV1vk72zLLX37CgN8Hab7VUmSmIE\nF+kOtIVxkp+aLdjKyNzScA9eatNxiIQ+FgHljOSMiEuyLB19EudjRl3mhw4wzs2X\nE5/jKv9I08q6pbvqU8oCbv7It/tDqSedHIv6EVFpsBttk1OZ9Do8uDSozN8feLDB\nO1zq7EoGHGFdx9ZajZt1Rrb2F5Kufw61b4lccTRevX0BAYhwWN0EG0NELSOHtmbD\nO6oPd0/Rb4sPq9mTNahXU8yvEjC3JGguicqzTHHXivP7CsBIEMzNh5OqcCNxPY5x\n3G7//Zevj03taGfIwJZWIjyzak8glXeBEU7co4B1KQKBgQDO0PPFMr3CxHJWEXZ/\n0WCocx22hczJJjQZqXb3rqacRdBydFD7hieO40JGOYX5PwAx8pLPhuTWVqn081s/\n1e8GKdBrr3wroYcngoEedAW0BL2sfowe2wrE++Yc7nQ3cap2WBe179HPelTmHph/\nypJUUCjxMxGGQqK5hpIsjZVUfwKBgQDC0HxEDccF7kzXe7FrUQtL+IcFfY7sCiB+\n5y1aGXuQSgv9DZ8YqWtFsj49CsKtZPIc6JHQJLgl4AGOhPaMOixMk3EJr/Yk+8/y\nQGdQUY2IAAjR4SpbpYGHKJ/IwYLgOhsvD9WayWJgGvMkaalONXqX2Ke4r6lvO2Hx\nYMNy8RXEPQKBgQCE1Jd8lDZknZ+Bv/2H4oZeKnFvBUid+LeFs94A/l9sBzr2B9br\ndSJ7F2M9jzyI9Pm/GrlIKK9ZKphGBvcYbOLz5m9CepcZvsj7i0o6sPHoyRK5cx2z\nw6OLGO6WrmBeK9b742B3LexngX59vjDcAtMw67sgD1i2Dp5M4i2IB/ddKQJ/Qvdn\nv/z8bQ19XJUoZ7t0JqlHwJtohbr1cKoG7PHVh8PsWxBToCacuViMDG+me/Q3Rbis\nZuA4bMyTvGn4Vjuo/qmwMaRK+GuXD68T1Ig0HovkfEDqTpaV7+AHDPt4AZv3vDW1\nN4ACUQbyjZHEoR3BBnFzNgksNRA0msSoatp0oQKBgAWaeWW4VPVPOyipJTwaOcfx\nTmwmeuug+Qig/pbisEyfgdDm1YAw5Y0qnftYxS9z0G73QsllwEEsJ5s0GM/nubNf\nFnXW3U7zohJ3uaEKmkV9vPOXpQkwpIARS5O2w7Rj4ilKMwWuovgJ7Ew/ik1TEaFy\nQfLRZ51RrRV4Ssi+izrz\n-----END PRIVATE KEY-----\n",
+  "client_email": "ecomservice-001@ascendant-volt-354609.iam.gserviceaccount.com",
+  "client_id": "117042063320960426381",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ecomservice-001%40ascendant-volt-354609.iam.gserviceaccount.com"
+}

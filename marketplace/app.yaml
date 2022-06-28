@@ -11,4 +11,8 @@ handlers:
 # files defined.
 - url: /.*
   script: auto
+
+beta_settings:
+    cloud_sql_instances: ascendant-volt-354609:us-central1:ecomdb-002
+
 # [END django_app]
